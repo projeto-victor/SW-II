@@ -1,3 +1,6 @@
 <?php
-    //AQUI VAI SER NOSSA APLICAÇÃO
- ?>
+
+//aqui vai ser a aplicação
+
+
+?>

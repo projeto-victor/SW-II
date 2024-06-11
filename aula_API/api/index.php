@@ -1,3 +1,5 @@
 <?php
-    //AQUI SERA NOSSA API
+
+//aqui vai ser a api
+
 ?>
