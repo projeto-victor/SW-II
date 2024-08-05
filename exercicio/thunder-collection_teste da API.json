@@ -1,0 +1,65 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "teste da API",
+    "dateExported": "2024-08-05T13:53:56.065Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "39f4e57f-1f32-4fad-8d29-53ab5ff8ba28",
+            "colId": "c1182b9f-de62-4716-90d5-bfb2d24bdad6",
+            "containerId": "",
+            "name": "Teste GET",
+            "url": "http://localhost/exercicio/api.php/alunos/3",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-08-05T12:29:03.784Z",
+            "modified": "2024-08-05T13:42:35.645Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "7a8735eb-f895-4103-939e-4e3f4b09eb5f",
+            "colId": "c1182b9f-de62-4716-90d5-bfb2d24bdad6",
+            "containerId": "",
+            "name": "Teste POST",
+            "url": "http://localhost/exercicio/api.php",
+            "method": "POST",
+            "sortNum": 40000,
+            "created": "2024-08-05T12:33:01.063Z",
+            "modified": "2024-08-05T12:33:07.357Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "dd72f5cb-83ff-4f99-84df-012488903fbb",
+            "colId": "c1182b9f-de62-4716-90d5-bfb2d24bdad6",
+            "containerId": "",
+            "name": "Teste PUT",
+            "url": "http://localhost/exercicio/api.php",
+            "method": "PUT",
+            "sortNum": 50000,
+            "created": "2024-08-05T12:33:19.529Z",
+            "modified": "2024-08-05T12:33:25.274Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "8c5d4fa8-397b-4b5a-97e7-780e82b5b2bb",
+            "colId": "c1182b9f-de62-4716-90d5-bfb2d24bdad6",
+            "containerId": "",
+            "name": "Teste DELETE",
+            "url": "http://localhost/exercicio/api.php",
+            "method": "DELETE",
+            "sortNum": 60000,
+            "created": "2024-08-05T12:33:35.181Z",
+            "modified": "2024-08-05T12:33:41.367Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
